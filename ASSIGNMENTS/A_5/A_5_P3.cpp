@@ -1,4 +1,4 @@
-//control 2 servo with the help potentiometeer and electrostati
+//control 2 servo with the help potentiometeer and ultrasonic
 #include <Servo.h>
 int a=0;
 Servo s;
